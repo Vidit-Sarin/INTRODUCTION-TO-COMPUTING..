@@ -88,7 +88,7 @@ Yes
 ##    converts them to integers, and to check whether the given input lengths can
 ##    form a triangle or not (Print : “Yes” or “No”).
 
-Enter the first side-  3
-Enter the second side-  4
-Enter the thied side-  5
+Enter the first side-  3.0
+Enter the second side-  4.0
+Enter the thied side-  5.0
 Yes..the given input lengths can form a triangle
