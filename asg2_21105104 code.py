@@ -65,7 +65,7 @@ print("a&b= ",a&b)
 
 # b. a|b
 
-print("a/b= ",a/b)
+print("a|b= ",a|b)
 
 # c. a^b
 
