@@ -186,7 +186,7 @@ for i in range(1,n+1):
     print(f(i),end=" ")
     sum=sum+f(i)
 print("\nTotal sum of the series till the entered term = ",sum)
-print("The average is = ",sum)
+print("The average is = ",sum/n)
 
 ################################################################################################################################
 ### QUESTION 8 ###
