@@ -154,7 +154,7 @@ while True:
     a=ord(n)
     if a==89:
         Name=input("Enter the name of the student - ")
-        SID=int(input("Enter the SID of the student - "))
+        SID=int(input("Enter the SID of the student (enter unique SID's only) - "))
         
         record[SID]=Name
         
@@ -174,7 +174,9 @@ if p in record:
 ### QUESTION 7 ###
 ## defining a function for fibonacci numbers
 def f(n):  
-    if n==2 or n==1:
+    if n==1:
+        return 0
+    if n==2:
         return 1
     return f(n-1)+f(n-2)
 ## taking the input..
