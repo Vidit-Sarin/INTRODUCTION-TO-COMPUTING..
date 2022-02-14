@@ -5,6 +5,9 @@ Type "help", "copyright", "credits" or "license()" for more information.
 # Q.1
 Enter the string - Coffee
 {'c': 1, 'o': 1, 'f': 2, 'e': 2}
+Enter the string - Hi my name is Vidit Sarin
+{'hi': 1, 'my': 1, 'name': 1, 'is': 1, 'vidit': 1, 'sarin': 1}
+
 # Q.2
 Enter current date =  29
 Enter current month = 2
