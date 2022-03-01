@@ -81,7 +81,6 @@ Enter the Divisor = 4
 The Quotient is- 1 and The Remainder is - 3 
 a). Is the function - divmod callable?     - Ans. True
 b). All the values are non zeros or not?   -Ans. True
-[1, 3, 4, 5, 6]
 c). The database -  [5, 6]
 d). The required database is -  {5, 6}
 e). The required immutable set is -  frozenset({5, 6})
