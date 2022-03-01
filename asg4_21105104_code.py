@@ -47,9 +47,8 @@ li.append(a)
 li.append(b)
 for i in (4,5,6):
     li.append(i)
-print(li)
 
-for j in li:
+for j in li[0:]:
     if j>4:
         pass
     else:
